@@ -1,5 +1,4 @@
 import "./globals.css";
-import "@heroui/react/styles.css";
 import {HeroUIProvider} from "@heroui/react";
 
 export const metadata = {
